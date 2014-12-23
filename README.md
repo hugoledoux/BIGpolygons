@@ -8,6 +8,8 @@ The ones here are all publicly available, and are usually polygons reprensenting
 They have been obtained by converting a grid to a vector format.
 I usually use them to test the capabilities of code I write to process GIS datasets.
 
+The EPSG of all the polygons is 4326 so that they can be visualised direclty here in GitHub (just click on a one geojson to view it).
+
 I'd be grateful if you submitted other ones through pull requests.
 
 
