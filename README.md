@@ -14,7 +14,7 @@ I'd be grateful if you submitted other interesting ones through pull requests.
 
 ## Details
 
-| dataset   | total # vertices | # inner rings | largest ring | source | OGC valid |
+| dataset   | total # vertices | # inner rings | # vertices largest ring | source | OGC valid |
 | --------- | ----------------:| -------------:| ------------:| ------ |:---------:|
 | 021L      |          148,612 |         5,132 |  34,471            | [Canada Land Cover](http://www.geobase.ca/geobase/en/data/landcover/index.html)    | false     |
 | 085M      |          192,355 |         7,684 |  39,067            | [Canada Land Cover](http://www.geobase.ca/geobase/en/data/landcover/index.html)    | false     |
