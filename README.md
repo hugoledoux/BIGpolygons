@@ -3,14 +3,13 @@
 A few examples of big polygons as found in GIS.
 Big here means that they contain several vertices and/or several inner rings (also called holes, or inner boundaries).
 
+They are all publicly available, and are usually polygons reprensenting land cover.
 
-The ones here are all publicly available, and are usually polygons reprensenting land cover.
-They have been obtained by converting a grid to a vector format.
-I usually use them to test the capabilities of code I write to process GIS datasets.
+I usually use them to test the capabilities of code I write to process GIS datasets, eg [prepair](https://github.com/tudelft3d/prepair).
 
-The EPSG of all the polygons is 4326 so that they can be visualised direclty here in GitHub (just click on a one geojson to view it).
+The CRS of all the polygons is EPSG:4326 so that they can be visualised direclty here in GitHub (just click on one geojson to view it).
 
-I'd be grateful if you submitted other ones through pull requests.
+I'd be grateful if you submitted other interesting ones through pull requests.
 
 
 ## Details
