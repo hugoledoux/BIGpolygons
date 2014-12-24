@@ -21,5 +21,5 @@ I'd be grateful if you submitted other interesting ones through pull requests.
 | canada    |          193,279 |             0 | 193,279            | [Large Scale International Boundary Lines ](https://hiu.state.gov/data/)           | true      |
 | russia    |          283,515 |             0 | 283,515            | [Large Scale International Boundary Lines ](https://hiu.state.gov/data/)           | true      |
 | cleveland |        1,689,703 |        66,908 | 500,373            | [Cleveland Metroparks](http://clevelandmetroparks.com)                             | false     |
-| EU-199948 |        1,189,903 |         7,672 |             | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
-| EU-180927 |          102,272 |           299 |             | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
+| EU-199948 |        1,189,903 |         7,672 |  280,150           | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
+| EU-180927 |          102,272 |           299 |   63,346           | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
