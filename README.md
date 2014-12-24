@@ -1,7 +1,7 @@
-# Some crazy polygons
+# A few BIG polygons
 
-A few examples of 'crazy polygons' as found in GIS.
-Crazy here means that they contain several vertices and/or several inner rings (also called holes, or inner boundaries).
+A few examples of big polygons as found in GIS.
+Big here means that they contain several vertices and/or several inner rings (also called holes, or inner boundaries).
 
 
 The ones here are all publicly available, and are usually polygons reprensenting land cover.
