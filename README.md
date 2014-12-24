@@ -14,12 +14,12 @@ I'd be grateful if you submitted other interesting ones through pull requests.
 
 ## Details
 
-| dataset   | total # vertices | # inner rings | source | OGC valid |
-| --------- | ----------------:| -------------:| ------ |:---------:|
-| 021L      |          148,612 |         5,132 | [Canada Land Cover](http://www.geobase.ca/geobase/en/data/landcover/index.html)    | false     |
-| 085M      |          192,355 |         7,684 | [Canada Land Cover](http://www.geobase.ca/geobase/en/data/landcover/index.html)    | false     |
-| canada    |          193,279 |             0 | [Large Scale International Boundary Lines ](https://hiu.state.gov/data/)           | true      |
-| russia    |          293,230 |             0 | [Large Scale International Boundary Lines ](https://hiu.state.gov/data/)           | true      |
-| cleveland |        1,689,703 |        66,908 | [Cleveland Metroparks](http://clevelandmetroparks.com)                             | false     |
-| EU-199948 |        1,189,903 |         7,672 | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
-| EU-180927 |          102,272 |           299 | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
+| dataset   | total # vertices | # inner rings | largest ring | source | OGC valid |
+| --------- | ----------------:| -------------:| ------------:| ------ |:---------:|
+| 021L      |          148,612 |         5,132 |  34,471            | [Canada Land Cover](http://www.geobase.ca/geobase/en/data/landcover/index.html)    | false     |
+| 085M      |          192,355 |         7,684 |  39,067            | [Canada Land Cover](http://www.geobase.ca/geobase/en/data/landcover/index.html)    | false     |
+| canada    |          193,279 |             0 | 193,279            | [Large Scale International Boundary Lines ](https://hiu.state.gov/data/)           | true      |
+| russia    |          283,515 |             0 | 283,515            | [Large Scale International Boundary Lines ](https://hiu.state.gov/data/)           | true      |
+| cleveland |        1,689,703 |        66,908 | 500,373            | [Cleveland Metroparks](http://clevelandmetroparks.com)                             | false     |
+| EU-199948 |        1,189,903 |         7,672 |             | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
+| EU-180927 |          102,272 |           299 |             | [Corine land cover](http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version-2)    | false     |
